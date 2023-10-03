@@ -9,7 +9,7 @@ O sistema bancário oferece as seguintes funcionalidades:
 1. Cadastro de Contas: Permite aos usuários criar novas contas bancárias, fornecendo informações como nome, número da conta e saldo inicial.
 2. Depósitos: Os clientes podem fazer depósitos em suas contas bancárias, adicionando fundos ao saldo existente.
 3. Saques: Os clientes podem fazer saques de suas contas bancárias, reduzindo o saldo disponível.
-4.Transferências: Permite aos clientes transferir dinheiro entre contas bancárias.
-5.Consulta de Saldo: Os clientes podem verificar o saldo atual de suas contas bancárias.
+4. Transferências: Permite aos clientes transferir dinheiro entre contas bancárias.
+5. Consulta de Saldo: Os clientes podem verificar o saldo atual de suas contas bancárias.
 
 
